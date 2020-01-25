@@ -4,7 +4,6 @@
 #
 %define		pdir	Math
 %define		pnam	Factor-XS
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::Factor::XS - Factorize numbers and calculate matching multiplications
 Name:		perl-Math-Factor-XS
 Version:	0.40
