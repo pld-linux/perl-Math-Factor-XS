@@ -7,7 +7,7 @@
 Summary:	Math::Factor::XS - Factorize numbers and calculate matching multiplications
 Name:		perl-Math-Factor-XS
 Version:	0.40
-Release:	10
+Release:	11
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
